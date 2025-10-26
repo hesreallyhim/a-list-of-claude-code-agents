@@ -29,8 +29,11 @@ Frontend specialist in modern JavaScript/TypeScript frameworks, responsive desig
 [`Code By Agents`](https://github.com/baryhuang/code-by-agents) by [Bary Huange](https://github.com/baryhuang)  
 An orchestration framework for designing and coordinating Claude Code agents, with a very clean interface, and sophisticated orchestration logic. (I think this might possibly involve a hand-rolled agent framework, given the committerdates, so that's pretty amazing.)
 
-[`awesome-claude-agents`](https://github.com/rahulvrane/awesome-claude-agents) by [Rahul Rane](https://github.com/rahulvrane)  
+[`awesome-claude-agents`](https://github.com/rahulvrane/awesome-claude-agents) by [Rahul Rane](https://github.com/rahulvrane)
 A _slightly_ similar repository 😉 to the present one with a growing list of awesome agents for Claude Code.
+
+[`EquilateralAgents Open Core`](https://github.com/Equilateral-AI/equilateral-agents-open-core) by [HappyHippo.ai](https://github.com/Equilateral-AI)
+22 self-learning AI agents with memory and community standards contribution. Features agent memory (tracks last 100 executions), pattern recognition, and workflow optimization for security, quality, deployment, and compliance.
 
 [`Claude Code Subagents Collection`](https://github.com/wshobson/agents?tab=re) by [Seth Hobson](https://github.com/wshobson).
 A pretty impressive resource with _dozens_ of awesome-looking agents that I haven't even had time to explore yet, but clearly this gentleman has put a lot of work into this feature that's been out for one freaking day at the time of writing!
