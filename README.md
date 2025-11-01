@@ -40,10 +40,6 @@ A pretty impressive resource with _dozens_ of awesome-looking agents that I have
 
 ## Contributing
 
-This repo is just getting started (but, you know, like, I _called it_ now and everything), but please feel free to start sending in your submissions! And please be sure to share (a) the prompt you used (if you had Claude's help); (b) the actual agent file; (c) something that you have built or done with the agent.
+See notice at top - I'm happy to share any resources that are not obviously malicious - so feel free to just submit a PR against the README and make sure it fits the format. This is not "passively" maintained, let's say, which is why I've "relinquished" the "awesome"-title to someone who has the capacity for active maintainance.
 
-And, finally, if you're one of the people mentioned above, and you want to bear the heroic burden of maintaining an awesome-list, just reach out to me (a.k.a. Him) and I'm sure we can find a suitable venue for a code golf competition or something to decide who is truly the awesome. 😜 Probably, by the time I finish writing this, there will be four to ten more repos like it, and I'm happy to just bask in the awesomeness of my own list.
-
-Happy coding! (...wait, no one does that anymore...)
-
-Have a great day!
+If you are interested in being a collaborator on this list, in order to make it an actively maintained list, you may feel free to contact me (see my profile page), but given the fact that the star count is fairly modest, and therefore there is no blocker to starting your own list, be forewarned that I may be suspicious of attention-seekers.
