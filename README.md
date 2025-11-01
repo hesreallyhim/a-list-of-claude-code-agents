@@ -40,6 +40,6 @@ A pretty impressive resource with _dozens_ of awesome-looking agents that I have
 
 ## Contributing
 
-See notice at top - I'm happy to share any resources that are not obviously malicious - so feel free to just submit a PR against the README and make sure it fits the format. This is not "passively" maintained, let's say, which is why I've "relinquished" the "awesome"-title to someone who has the capacity for active maintainance.
+See notice at top - I'm happy to share any resources that are not obviously malicious - so feel free to just submit a PR against the README and make sure it fits the format. This repo is "passively" maintained, let's say, which is why I've "relinquished" the "awesome"-title to someone who has the capacity for active maintainance.
 
 If you are interested in being a collaborator on this list, in order to make it an actively maintained list, you may feel free to contact me (see my profile page), but given the fact that the star count is fairly modest, and therefore there is no blocker to starting your own list, be forewarned that I may be suspicious of attention-seekers.
