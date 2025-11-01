@@ -1,8 +1,8 @@
-# Awesome Claude Code Agents
+# ~~Awesome Claude Code Agents~~
 
-## SUPER QUICK UPDATE
+# A List of Claude Code Agents
 
-I don't have time to maintain this (if you haven't noticed). I'm happy to use it as a "meta-list" for anyone who has their own Claude Code agents repository/list, but I don't have time to review submissions or anything - so, if you have a list (or a sizeable collection of your own agents), feel free to open a PR and I'll probably just leave this up as a way to share some links to other people's lists/projects who do have the time. God bless.
+This is a list of resources for Claude Code Agents - Initially I hoped to be able to maintain an "awesome-list" with the same level of care and attention that I give to [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code), but currently it's unfeasible, and I don't inend to be a repo-name-squatter, so I've changed the name - I'm happy to share things if people want to submit resources, this already has a small but non-trivial number of stars, but I want to make clear that this is not a curated list, as things currently stand. (Which is not to say these are not very fine resources.)
 
 ### Agents
 
