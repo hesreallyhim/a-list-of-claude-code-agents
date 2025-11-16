@@ -38,6 +38,8 @@ A _slightly_ similar repository 😉 to the present one with a growing list of a
 [`Claude Code Subagents Collection`](https://github.com/wshobson/agents?tab=re) by [Seth Hobson](https://github.com/wshobson).
 A pretty impressive resource with _dozens_ of awesome-looking agents that I haven't even had time to explore yet, but clearly this gentleman has put a lot of work into this feature that's been out for one freaking day at the time of writing!
 
+[`Context Engineering Kit`](https://github.com/NeoLabHQ/context-engineering-kit) by [Vlad Goncharov](https://github.com/LeoVS09) - Hand-crafted marketplace of advanced context engineering techniques with minimal token footprint. Includes agents for code review, TDD/SADD workflows, specification-driven development with specialized agents, and custom agent creation tools, with prompt engineering best practices.
+
 ## Contributing
 
 See notice at top - I'm happy to share any resources that are not obviously malicious - so feel free to just submit a PR against the README and make sure it fits the format. This repo is "passively" maintained, let's say, which is why I've "relinquished" the "awesome"-title to someone who has the capacity for active maintainance.
